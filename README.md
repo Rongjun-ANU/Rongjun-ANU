@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Rongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rongjun-ANU)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Rongjun-ANU/Rongjun-ANU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
