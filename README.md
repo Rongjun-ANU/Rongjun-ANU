@@ -6,7 +6,7 @@
 
 Good morning 
 
-This is [Rongjun Huang](www.rongjun-huang.com)'s Github page.
+This is [Rongjun Huang](www.rongjun-huang.com)'s Github page
 
 I am always online
 
