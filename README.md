@@ -2,7 +2,11 @@
 
 [![Rongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rongjun-ANU&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rongjun-ANU&layout=compact&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 Good morning 
+
+This is [Rongjun Huang](www.rongjun-huang.com)'s Github page.
 
 I am always online
 
