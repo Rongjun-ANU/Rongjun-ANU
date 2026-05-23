@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌌 Welcome to My Interstellar Workspace 🔭</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2E93&center=true&vCenter=true&width=600&lines=Astrophysics+%F0%9F%A9%90+Star+Formation+%E2%9C%A8;Observing+and+Simulating+Galaxies+%F0%9F%8C%8C;Hi+there,+I'm+Rongjun+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2E93&center=true&vCenter=true&width=800&lines=Astrophysics,+Star+Formation+%26+Galaxy+Evolution+%E2%9C%A8;Observing+and+Simulating+Galaxies+%F0%9F%8C%8C;Hi+there,+I'm+Rongjun+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <p align="center">
