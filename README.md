@@ -24,7 +24,7 @@
 Good morning, this is [Rongjun Huang](https://www.rongjun-huang.com/)'s Github page.
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/Rongjun-ANU/count.svg" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=Rongjun-ANU&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count">
 </p>
 
 <!--
