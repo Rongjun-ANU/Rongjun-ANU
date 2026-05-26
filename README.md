@@ -10,7 +10,7 @@
 ### 🌟 Profile Highlights
 
 <p align="center">
-  A local banner for quick visual context, without relying on third-party trophy services.
+  I am <b><a href="https://www.rongjun-huang.com/">Rongjun Huang</a></b>, navigating the universe of <b>Astrophysics</b>, <b>Star Formation</b>, and <b>Galaxy Evolution</b>. 🚀
 </p>
 
 ### 🔭 Instruments & Tech Stack
@@ -38,16 +38,8 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rongjun-ANU&theme=synthwave&area=true&hide_border=true" alt="Contribution graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rongjun-ANU&bg_color=0F172A&color=C4B5FD&line=E9D5FF&point=F5D0FE&area=true&hide_border=true" alt="Contribution graph">
 </p>
-
-<br>
-
-<div align="center">
-  <i>"Bridging the gap between the cosmos and code."</i>
-  <br><br>
-  I am <b><a href="https://www.rongjun-huang.com/">Rongjun Huang</a></b>, navigating the universe of <b>Astrophysics</b>, <b>Star Formation</b>, and <b>Galactic Dynamics</b>. 🚀
-</div>
 
 <br><br>
 
