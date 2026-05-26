@@ -35,6 +35,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rongjun-ANU&theme=synthwave" alt="GitHub Streak">
 </p>
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rongjun-ANU&theme=synthwave&area=true&hide_border=true" alt="Contribution graph">
+</p>
+
 <br>
 
 <div align="center">
