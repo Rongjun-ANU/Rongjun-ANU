@@ -4,9 +4,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rongjun-ANU&theme=synthwave&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
+  <img src="assets/profile-trophy.svg" alt="Profile showcase banner" />
+</p>
+
+### 🌟 Profile Highlights
+
+<p align="center">
+  A local banner for quick visual context, without relying on third-party trophy services.
 </p>
 
 ### 🔭 Instruments & Tech Stack

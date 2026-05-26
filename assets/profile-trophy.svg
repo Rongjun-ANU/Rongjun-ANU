@@ -1,0 +1,43 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Trophy banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="255" y1="40" x2="645" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="0.45" stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="180" y1="20" x2="720" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" rx="28" fill="url(#bg)"/>
+  <rect x="16" y="16" width="868" height="188" rx="22" stroke="url(#glow)" stroke-width="2"/>
+
+  <circle cx="112" cy="56" r="4" fill="#FDE68A"/>
+  <circle cx="145" cy="40" r="2.5" fill="#93C5FD"/>
+  <circle cx="772" cy="56" r="4" fill="#F9A8D4"/>
+  <circle cx="742" cy="36" r="2.5" fill="#A7F3D0"/>
+
+  <path d="M364 56H536C543.732 56 550 62.268 550 70V82C550 140.542 502.542 188 444 188H456C397.458 188 350 140.542 350 82V70C350 62.268 356.268 56 364 56Z" fill="url(#gold)"/>
+  <path d="M380 68H520C525.523 68 530 72.477 530 78V82C530 129.467 491.467 168 444 168C396.533 168 358 129.467 358 82V78C358 72.477 362.477 68 368 68Z" fill="#FFF7D6" opacity="0.18"/>
+  <path d="M402 42H498V78H402V42Z" fill="url(#gold)"/>
+  <path d="M414 30H486V46H414V30Z" fill="url(#gold)"/>
+  <path d="M424 188H476V202H424V188Z" fill="url(#gold)"/>
+  <path d="M392 192H508V208H392V192Z" fill="#F59E0B"/>
+
+  <path d="M350 68H320C305.64 68 294 56.36 294 42V36H338V52C338 57.523 342.477 62 348 62H350V68Z" fill="url(#gold)"/>
+  <path d="M550 68H580C594.36 68 606 56.36 606 42V36H562V52C562 57.523 557.523 62 552 62H550V68Z" fill="url(#gold)"/>
+  <path d="M300 42C300 29.297 310.297 19 323 19H338V44C338 57.255 327.255 68 314 68H300V42Z" fill="#FCD34D"/>
+  <path d="M600 42C600 29.297 589.703 19 577 19H562V44C562 57.255 572.745 68 586 68H600V42Z" fill="#FCD34D"/>
+
+  <path d="M338 194H562" stroke="#334155" stroke-width="8" stroke-linecap="round"/>
+  <path d="M372 192H528" stroke="#475569" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+
+  <text x="450" y="116" text-anchor="middle" fill="#E9D5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="1.5">Profile Highlights</text>
+  <text x="450" y="146" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">A local banner for the profile README</text>
+</svg>
